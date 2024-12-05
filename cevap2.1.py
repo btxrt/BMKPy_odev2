@@ -11,13 +11,13 @@ print("yakıt masrafınız:")
 if(yakıtTipi=="benzin"):
     print(mesafe*benzinFiyat)
     
-    elif(yakıtTipi=="dizel"):
+elif(yakıtTipi=="dizel"):
     print(mesafe*dizelFiyat)
     
-    elif(yakıtTipi=="lpg"):
+elif(yakıtTipi=="lpg"):
     print(mesafe*lpgFiyat)
     
-    else:
+else:
     print("bi sorun oluştu üzgünüz")
 
 

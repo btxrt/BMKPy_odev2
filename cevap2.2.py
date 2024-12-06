@@ -10,23 +10,23 @@ print("harf notunuz= ")
 if(100>=notOrtalaması>=90):
     print("AA")
 
-elif(89>=notOrtalaması>=80):
+elif(90>notOrtalaması>=80):
     print("BA")
 
-elif(79>=notOrtalaması>=70):
+elif(80>notOrtalaması>=70):
     print("BB")
 
-elif(69>=notOrtalaması>=60):
+elif(70>notOrtalaması>=60):
     print("CB")
 
-elif(59>=notOrtalaması>=60):
+elif(60>notOrtalaması>=50):
     print("CC")
 
-elif(49>=notOrtalaması>=40):
+elif(50>notOrtalaması>=40):
     print("DC")
 
 else:
-    print("başarısız")
+    print("DD")
 
 
 
